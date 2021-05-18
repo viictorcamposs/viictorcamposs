@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos os meus projetos você consegue ver aqui na minha conta do GitHub, **em breve no meu próprio site**!
 
-- 🌱 Estou estudando cada vez mais sobre *User Experience*, *Design Thinking* e criação de *aplicativos Mobile*.
+- 🌱 Atualmente estou estudando sobre *Criação de aplicativos performáticos e escaláveis* e *User Experience*.
 
 - 💬 Vamos conversar sobre **parcerias e negócios.**
 
