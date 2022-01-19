@@ -9,7 +9,7 @@
 
 - 📫 Como entrar em contato: **campos.viictor@gmail.com**
 
-- ⚡ Já quis ser produtor de música eletrônica e gosto de jogar poker **😜**
+- ⚡ Estudei por 2 anos produção de música eletrônica **😜**
 
 <p align="center">
 <a href="https://linkedin.com/in/camposviictor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="camposviictor" height="20" width="20" /></a>
