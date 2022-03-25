@@ -5,7 +5,7 @@
 
 - 👨‍💻 Desenvolvedor front-end, trabalhando com *React + Next.js + TypeScript*!
 
-- 🌱 Atualmente estou estudando *Java* e *Jest*.
+- 🌱 Atualmente estou estudando sobre *cultura de testes no front-end* e *produtividade*.
 
 - 📫 Como entrar em contato: **campos.viictor@gmail.com**
 
