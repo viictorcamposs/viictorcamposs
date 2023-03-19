@@ -1,8 +1,6 @@
 <h1 align="center">Opa <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Victor Campos aqui.</h1>
 <h3 align="center">Desenvolvedor de aplicativos, focado em criar soluções de ponta a ponta.</h3>
 
-- 🔭 Transformando a educação brasileira junto com a <a href="escolaconquer.com.br/">Escola Conquer</a>
-
 - 👨‍💻 Desenvolvedor front-end, trabalhando com *React + Next.js + TypeScript*!
 
 - 🌱 Atualmente estou estudando sobre *cultura de testes e performance no front-end*.
